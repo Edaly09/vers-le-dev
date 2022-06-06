@@ -1,0 +1,66 @@
+.one
+{
+    text-align: center;
+    color:brown;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight:900;
+}
+.two
+{
+    text-align: center;
+}
+body{
+    background-color:aliceblue;
+    width: 100%;
+}
+p{
+    color:black;
+font-weight:bold;
+text-align: justify;
+}
+.tree{
+
+    text-align: center;
+    
+}
+#header
+{
+    color:rgb(69, 172, 10);
+}
+.image{
+
+text-align: center;
+}
+.moi{
+    text-align: center;
+}
+
+.eda{
+    text-align: center;
+    color: blue;
+
+
+.nom
+ {
+color:
+font-size: xx-large;
+font-style: oblique;
+font-weight: bold;
+    }
+    
+
+
+
+
+    /* }
+.container {
+    height: 400px;
+    max-width: 900px;
+    margin: auto;
+    padding: 0 15px;
+    cursor: pointer;
+} */
+
+
