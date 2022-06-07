@@ -28,6 +28,7 @@ text-align: justify;
 #header
 {
     color:rgb(69, 172, 10);
+
 }
 .image{
 
@@ -40,14 +41,25 @@ text-align: center;
 .eda{
     text-align: center;
     color: blue;
-
-
+    }
 .nom
  {
 color:
 font-size: xx-large;
 font-style: oblique;
 font-weight: bold;
+    }
+
+    .titre{
+        text-align:center;
+    color: white;
+    }
+    #tete{
+        text-align: right;
+    
+    }
+    .style{
+        list-style-type: none;
     }
     
 
